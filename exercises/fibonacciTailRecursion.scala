@@ -1,7 +1,7 @@
 def fibonacciTailRecursion(n: Int): Int = {
 
   def go(n: Int, previousNum: Int, acc: Int): Int = {
-    val newPreviousNum = acc;
+    val newPreviousNum = acc
     if (n <= 2) acc
     else go(n - 1, newPreviousNum, previousNum + acc)
   }
