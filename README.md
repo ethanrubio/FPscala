@@ -1,2 +1,4 @@
 # FPscala
-Exercises for https://github.com/fpinscala/fpinscala
+Pure function exercises for https://github.com/fpinscala/fpinscala
+
+
